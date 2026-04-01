@@ -28,19 +28,6 @@ To synthesize graphene oxide (GO) nanosheets by the modified Hummers method.
 
 ---
 
-## Formula
-
-\[
-W = N \times e \times l
-\]
-
-Where:
-- **N** = Normality  
-- **e** = Equivalent weight  
-- **l** = Volume (in liters)  
-
----
-
 ## Procedure
 
 1. **Preparation of Acid Mixture**  
@@ -66,12 +53,6 @@ Where:
 
 7. **Drying**  
    Dry the final product at 60°C to obtain graphene oxide nanosheets.
-
----
-
-## Calculation
-
-(Use the formula: W = N × e × l as required)
 
 ---
 
